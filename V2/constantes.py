@@ -25,14 +25,14 @@ flag_lugar = "menu"
 
 
 #-----------ruta de imagenes--------------
-PATH_FONDO = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Espacial.jpg"
-PATH_MENU = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Menu.png"
-PATH_EXPLOSION = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Explosion_nave.mp3"
-PATH_CANCION = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Mountains.mp3"
-PATH_SHIP = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Sprite-Ship.png"
-PATH_HELTH_BAR = fr"SEGUNDO PARCIAL\Galaxy\Imgs\healt_bar.png"
-PATH_DISPAROS = fr"SEGUNDO PARCIAL\Galaxy\Imgs\Disparos.mp3"
-PATH_BD = fr"SEGUNDO PARCIAL\Galaxy\base de datos\bd_score.db"
+PATH_FONDO = fr"Imgs\Espacial.jpg"
+PATH_MENU = fr"Imgs\Menu.png"
+PATH_EXPLOSION = fr"Imgs\Explosion_nave.mp3"
+PATH_CANCION = fr"Imgs\Mountains.mp3"
+PATH_SHIP = fr"Imgs\Sprite-Ship.png"
+PATH_HELTH_BAR = fr"Imgs\healt_bar.png"
+PATH_DISPAROS = fr"Imgs\Disparos.mp3"
+PATH_BD = fr"base de datos\bd_score.db"
 #-----------LISTA DE BALAS-------------------
 balas_enemigas = []
 balas_enemigas_colisionadas = []
